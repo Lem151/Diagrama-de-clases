@@ -40,3 +40,4 @@ Una empresa de ventas online quiere que he hagas un diagrama de clases para orga
 - Relaciones:
   - CustomerID: Es el nombre del cliente.
   - Nombre: Es el producto que está en el carro.
+![](Captura.PNG)
